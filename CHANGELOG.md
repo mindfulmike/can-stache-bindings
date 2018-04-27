@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.21"></a>
+## [3.0.21](https://github.com/mindfulmike/can-stache-bindings/compare/v3.0.20...v3.0.21) (2018-04-27)
+
+
+
 <a name="3.0.20"></a>
 ## [3.0.20](https://github.com/mindfulmike/can-stache-bindings/compare/v3.0.13...v3.0.20) (2018-04-27)
 
